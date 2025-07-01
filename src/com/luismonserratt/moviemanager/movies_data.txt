@@ -1,0 +1,24 @@
+Inception,Sci-Fi,2010,8.8,148,true
+Titanic,Romance,1997,7.8,195,true
+Avatar,Sci-Fi,2009,7.9,162,true
+The Godfather,Crime,1972,9.2,175,true
+The Dark Knight,Action,2008,9.0,152,true
+Pulp Fiction,Crime,1994,8.9,154,true
+Forrest Gump,Drama,1994,8.8,142,true
+The Matrix,Sci-Fi,1999,8.7,136,true
+Interstellar,Sci-Fi,2014,8.6,169,true
+Gladiator,Action,2000,8.5,155,true
+The Lion King,Animation,1994,8.5,88,true
+Fight Club,Drama,1999,8.8,139,true
+The Shawshank Redemption,Drama,1994,9.3,142,true
+The Avengers,Action,2012,8.0,143,true
+Iron Man,Action,2008,7.9,126,true
+Shrek,Animation,2001,7.9,90,true
+Toy Story,Animation,1995,8.3,81,true
+Finding Nemo,Animation,2003,8.1,100,true
+Up,Animation,2009,8.2,96,true
+Coco,Animation,2017,8.4,105,true
+Joker,Drama,2019,8.5,122,true
+Frozen,Animation,2013,7.4,102,true
+Moana,Animation,2016,7.6,107,true
+Black Panther,Action,2018,7.3,134,true
